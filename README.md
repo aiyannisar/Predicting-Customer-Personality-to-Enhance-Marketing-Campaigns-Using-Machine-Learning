@@ -383,5 +383,11 @@ Low Prospect Engagement Opportunity 💬
 * "Low Prospect" customers, with a total expense impact of `$66,891,000.00`, may not be big spenders, but their extensive website engagement is noteworthy.
 * With targeted efforts and enticing incentives, we can turn this high engagement into increased sales.
 In summary, this analysis provides a clear roadmap for optimizing our marketing strategy. By segmenting our approach, we can unlock the potential of each customer group, boosting revenue and ensuring long-term success. The financial impact of each segment emphasizes the value they bring to our business and underscores the importance of tailored engagement strategies.
-
+  @Team MindMatrix
+  Team Members
+  -Aiyan Nisar
+  -Ahmad Faraz
+  -Abdul Bari
+  -Amaan Ali
+  
 
